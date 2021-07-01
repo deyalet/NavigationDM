@@ -4,28 +4,23 @@
         <item android:title="Principal">
             <menu>
                 <item
-                    android:id="@+id/home"
+                    android:id="@+id/control1"
                     android:icon="@drawable/ic_home"
-                    android:title="home">
+                    android:title="Control 1">
                 </item>
                 <item
-                    android:id="@+id/personas"
+                    android:id="@+id/control2"
                     android:icon="@drawable/ic_group"
-                    android:title="personas">
+                    android:title="Control 2">
                 </item>
             </menu>
         </item>
     <item android:title="Secundario">
         <menu>
             <item
-                android:id="@+id/home2"
+                android:id="@+id/control3"
                 android:icon="@drawable/ic_home"
-                android:title="home">
-            </item>
-            <item
-                android:id="@+id/personas2"
-                android:icon="@drawable/ic_group"
-                android:title="personas">
+                android:title="Control 3">
             </item>
         </menu>
     </item>

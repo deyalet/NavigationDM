@@ -65,8 +65,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="298dp"
-        android:layout_marginEnd="68dp"
+        android:layout_marginTop="297dp"
+        android:layout_marginEnd="66dp"
         android:ems="10"
         android:inputType="textPassword" />
 
@@ -76,7 +76,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="252dp"
+        android:layout_marginBottom="139dp"
         android:onClick="btnIngresar"
         android:text="Ingresar" />
 </RelativeLayout>
